@@ -11,9 +11,9 @@
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Introduction Ua](#Introduction-ua)
-3. [Preview of work](#Preview_of_work)
-4. [How to instal](#How_to_install)
-5. [How to use](#How_to_use)
+3. [Preview of work](#Preview-of-work)
+4. [How to install](#How-to-install)
+5. [How to use](#How-to-use)
 
 
 ## <a name="Introduction">Introduction</a>
@@ -28,3 +28,9 @@ The purpose of this bot is to provide the user with links to propaganda sources 
 *	Захист прав та інтересів користувачів: Користувачі повинні мати можливість впливати на якість інформації, яку вони споживають. Забезпечення можливості подання скарг на пропагандистські джерела дає користувачам засіб впливу, щоб висловити своє несхвалення щодо неправдивої чи маніпулятивної інформації та вимагати дій відповідних організацій чи платформ.
 
 *	Посилення прозорості та відповідальності: Подання скаргу на пропагандистські джерела викликає необхідність проведення перевірки та вжиття заходів щодо відповідності їхньої діяльності етичним та нормативним стандартам. Це може сприяти зміцненню прозорості та відповідальності з боку засобів масової інформації та публічних платформ.
+
+## <a name="Preview-of-work">Preview of work</a>
+
+## <a name="How-to-install">How to install</a>
+
+## <a name="How-to-use">How to use</a>
