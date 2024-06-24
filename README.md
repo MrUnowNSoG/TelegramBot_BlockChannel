@@ -30,7 +30,32 @@ The purpose of this bot is to provide the user with links to propaganda sources 
 *	Посилення прозорості та відповідальності: Подання скаргу на пропагандистські джерела викликає необхідність проведення перевірки та вжиття заходів щодо відповідності їхньої діяльності етичним та нормативним стандартам. Це може сприяти зміцненню прозорості та відповідальності з боку засобів масової інформації та публічних платформ.
 
 ## <a name="Preview-of-work">Preview of work</a>
+<details open>
+<summary>
+ Images
+</summary> <br/>
+
+<p align="center">
+    <img src="./.readme/images/PW_1.png" alt="start" height = "500"/>
+&nbsp;
+    <img src="./.readme/images/PW_2.png" alt="start setting" height = "500"/>
+</p>
+
+<p align="center">
+    <img src="./.readme/images/PW_3.png" alt="start setting" height = "500"/>
+&nbsp;
+    <img src="./.readme/images/PW_4.png" alt="start setting" height = "500"/>
+</p> 
+    
+<p align="center">
+    <img src="./.readme/images/PW_5.png" alt="start setting" height = "500"/>
+&nbsp;
+    <img src="./.readme/images/PW_6.png" alt="start setting" height = "500"/>
+</p>
+
+</details>
 
 ## <a name="How-to-install">How to install</a>
-
+* Download and open project
+* Download 
 ## <a name="How-to-use">How to use</a>
