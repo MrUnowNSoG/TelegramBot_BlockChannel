@@ -56,6 +56,29 @@ The purpose of this bot is to provide the user with links to propaganda sources 
 </details>
 
 ## <a name="How-to-install">How to install</a>
-* Download and open project
-* Download 
+* Download and open project in VS
+* Download in project next NuGet package: Telegram.Bot
+* Register your bot in **[Telegram BotFather](https://telegram.me/BotFather)**.
+* Change id bot in Program.cs:
+```C#
+  private static string token { get; set; } = "YOUR_ID_TELEGRAM_BOT";
+```
+* Start program and close
+* Next step find where build your exe file and add in this place BaseData.zip and extract here
+```Path
+//Standart path build exe file:
+*\TelegramBot_BlockChannel-main\TelegramBot_BlockChannel-main\Anti-war-mini_bot\bin\Debug\net5.0
+```
+* Use bot!
+  
 ## <a name="How-to-use">How to use</a>
+
+To use the bot, follow the instructions in the console. 
+### The classic version:
+* 0 - start the bot
+* 8 - upload data for the bot
+* 1 - create top users
+
+When to close the bot:
+* 9 - save bot data
+* 10 - close the program
