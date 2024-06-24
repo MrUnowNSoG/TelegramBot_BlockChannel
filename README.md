@@ -10,7 +10,7 @@
 
 ## Table of Contents
 1. [Introduction](#Introduction)
-2. [Introduction Ua](#Introduction_ua)
+2. [Introduction Ua](#Introduction-ua)
 3. [Preview of work](#Preview_of_work)
 4. [How to instal](#How_to_install)
 5. [How to use](#How_to_use)
@@ -19,7 +19,7 @@
 ## <a name="Introduction">Introduction</a>
 The purpose of this bot is to provide the user with links to propaganda sources against which to file a complaint. In order to block such sources.
 
-## <a name="Introduction_ua">Introduction Ua</a>
+## <a name="Introduction-ua">Introduction Ua</a>
 В Україні на даний момент відбувається війна з Росією. Проте слід зазначити, що вона відбувається не тільки на фронті, а й в наших смартфонах. Тому ціль даного бота полягає в том, щоб надавати користувачу посилання на пропагандистські джерела на, які можна подати скаргу. 
 
 ### Головні цілі проєкта:
